@@ -1,7 +1,0 @@
-<item>
-<title>CBolão 2021</title>
-<link>plugin://plugin.video.twitch/?mode=play&channel_name=baiano</link>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cbolao-divulgacao.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
